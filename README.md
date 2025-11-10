@@ -13,7 +13,7 @@ HTTP/HTTPS tracker blocking based on mitmproxy + ASTrack clean resources
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/ismael-castell/GuardXP.git
+   git clone https://github.com/UPC-CBA/GuardXP-Proxy.git
    cd guardxp
    ```
 
